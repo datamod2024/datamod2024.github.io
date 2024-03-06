@@ -3044,8 +3044,12 @@
 .contact-form-section .slider-content-box .slider-author {
 	margin-bottom: 28px;
 }
-.transp {
+.transp { /*cz*/
    background: rgba(0, 0, 0, 0.4);
+}
+.align-left { /*cz*/
+	left: -80px;
+	margin-left: -80px;
 }
 
 /* ========================================================================== */
