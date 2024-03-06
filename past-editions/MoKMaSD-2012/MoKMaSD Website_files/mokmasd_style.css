@@ -1,0 +1,245 @@
+body{
+	font-family: Times New Roman;
+        background-color: #ddddff
+}
+
+body.home{
+        background-image: url(/web/20171119085312im_/http://www.di.unipi.it/mokmasd/symposium-2012/marsa.jpg);
+        background-repeat: no-repeat
+}
+
+a.link {
+   font-family: Times New Roman;
+   color:  #000055;
+   text-decoration: underline
+}
+
+a.menu-link {
+   font-family: Times New Roman;
+   color:  #000055;
+   font-size: 12pt;
+   text-decoration: underline
+}
+
+a.biglink {
+   font-family: Times New Roman;
+   color:  #000055;
+   font-size: 16pt;
+   text-decoration: underline
+}
+
+a.bigtext {
+   font-family: Times New Roman;
+   color:  #000055;
+   font-size: 16pt
+}
+
+a.bigdead {
+   font-family: Times New Roman;
+   color:  #555555;
+   font-size: 16pt
+}
+
+#big-bright-on-dark {
+        color: #ffffff;
+        background-color: #000070;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+#big-yellow-on-dark {
+        color: #ffff00;
+        background-color: #000070;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+#dark-on-bright {
+        color: #000070;
+        background-color: #ddddff;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#red-on-bright {
+        color: #700000;
+        background-color: #ddddff;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#bright-on-dark {
+        color: #ffffff;
+        background-color: #000070;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-bright-on-dark {
+        color: #ffffff;
+        background-color: #000055;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-grey-on-dark {
+        color: #cccccc;
+        background-color: #000055;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-red-on-dark {
+        color: #dd0000;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#small-dark-on-bright {
+        color: #000055;
+        background-color: #ddddff;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+#big-dark {
+        color: #000055;
+        font-size: 20pt;
+        font-weight: bold
+}
+
+#dark {
+        color: #000055;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#black {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-black {
+        color: #000000;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-red {
+        color: #bb0000;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+p.text, ul.text, td.text {
+        color: #000000;
+        font-size: 10pt;
+}
+
+p.topic, ul.topic, td.topic {
+        color: #0000aa;
+        font-size: 10pt;
+}
+
+strong.text  {
+        color: #000000;
+        font-size: 10pt;
+        font-weight: bold
+}
+
+strong.very  {
+        color: #000055;
+}
+
+p.big, ul.big, td.big  {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+td.menu-link {
+        background-color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+td.menu-curr {
+        color: #fcff88;
+        background-color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+td.menu-next {
+        color: #aa0000;
+        background-color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+td.menu-past {
+        background-color: #000055;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+a.menu-past {
+        color: #cccccc;
+}
+
+td.menu-spec {
+        background-color: #ddddff;
+        font-size: 12pt;
+        font-weight: bold
+}
+
+a.menu-spec {
+        color: #000055;
+}
+
+
+/*
+     FILE ARCHIVED ON 08:53:12 Nov 19, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:46:27 Nov 11, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 79.361
+  exclusion.robots: 0.217
+  exclusion.robots.policy: 0.199
+  cdx.remote: 0.113
+  esindex: 0.018
+  LoadShardBlock: 42.273 (3)
+  PetaboxLoader3.datanode: 53.803 (4)
+  load_resource: 123.915
+  PetaboxLoader3.resolve: 94.031
+*/

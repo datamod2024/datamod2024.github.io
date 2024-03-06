@@ -1,0 +1,199 @@
+body {
+	background:#fbfdf6;
+	font-family:"Myriad Pro", Myriad, Helvetica, Arial, sans-serif;
+	font-size:90%;
+	color:#463715;
+	margin:20px auto;
+	text-align:center;
+	line-height:1.4em;
+	width:960px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:1.5em;
+	text-transform:uppercase;
+	font-weight:normal;
+}
+
+a:link, a:visited {
+	font-family:georgia, times, serif;
+	font-weight:bold;
+	color:#c17086;
+	text-decoration:none;
+	border-bottom:1px solid #91476c;
+	font-size:1em;
+}
+
+a:hover {
+	border-bottom:1px dotted #91476c;
+}
+
+a img {
+	border:none;
+}
+
+header, section, article, footer {
+	padding:10px 20px 20px;
+	margin:10px;
+	border:1px solid #e7e2d7;
+	border-radius:8px;
+	-webkit-border-radius:.8em;
+	-moz-border-radius:.8em;
+	background:#fff url(/web/20151214161011im_/http://www.di.unipi.it/mokmasd/symposium-2015/sprites.png) repeat-x 0px -120px;
+}
+
+header {
+	display:block;
+	position:relative;
+	text-align:left;
+}
+
+header img {
+	position:absolute;
+	left:20px;
+	top:18px;
+}
+
+header h1 {
+	font-size:2.3em;
+	text-transform:none;
+	letter-spacing:0em;
+	text-align:center;
+	color:#c17086;
+}
+
+header h2 {
+	margin:20px 0px;
+	font-size:1.3em;
+	text-align:center
+}
+
+header h3 {
+	margin:20px 0px;
+	font-size:1.3em;
+	text-align:center;
+	text-transform:none;
+}
+
+
+nav {
+	text-align:center;
+	display:block;
+}
+
+nav ul {
+	padding:0px;
+	list-style-type:none;
+	display:inline;
+}
+
+nav li {
+	margin:0px 10px;
+	padding:0px;
+	list-style-type:none;
+	display:inline;
+	font-size:1.4em;
+	font-weight:normal;
+}
+
+nav a:link, nav a:visited {
+	font-weight:normal;
+}
+
+td {
+	width:50%;
+	vertical-align: text-top;
+}
+
+section {
+	float:left;
+	width:188px;
+	text-align:left;
+}
+
+section h1, section h2, section h3, section h4, section h5, section h6 {
+	background:transparent url(/web/20151214161011im_/http://www.di.unipi.it/mokmasd/symposium-2015/sprites.png) no-repeat 0px -80px;
+	color:#fff;
+	padding:9px 10px 10px 10px;
+	margin:13px -10px;	
+	text-shadow:0 1px 0 #403232;
+	letter-spacing: -1px;
+}
+
+section ul {
+	padding:0px;
+	list-style:none;
+	border-top:1px solid #e7e2d7;
+	margin:14px 0px;
+}
+
+section li {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+section li a:link, section li a:visited {
+	float:left;
+	width:96%;
+	padding:3px 1%;
+	border-bottom:1px solid #e7e2d7;
+}
+
+section li a:hover {
+	background:#f2f1ec;
+}
+
+article {
+	float:right;
+	width:640px;
+	text-align:left;
+}
+
+article h1 {
+	background:transparent url(/web/20151214161011im_/http://www.di.unipi.it/mokmasd/symposium-2015/sprites.png) no-repeat 0px -40px;
+	color:#fff;
+	padding:7px 10px 12px 30px;
+	margin-left:-30px;
+	text-shadow:0 1px 0 #403232;
+}
+
+article h2, article h3, article h4, article h5, article h6  {
+	background:transparent url(/web/20151214161011im_/http://www.di.unipi.it/mokmasd/symposium-2015/sprites.png) no-repeat 0px 0px;
+	color:#fff;
+	padding:7px 10px 12px 30px;
+	margin-left:-30px;
+	text-shadow:0 1px 0 #913951;
+}
+
+footer {
+	display:block;
+	clear:both !important;
+	width:898px;
+}
+
+footer a {
+	margin:0px 5px;
+}
+
+/*
+     FILE ARCHIVED ON 16:10:11 Dec 14, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:57:58 Nov 11, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 208.915
+  exclusion.robots: 0.123
+  exclusion.robots.policy: 0.112
+  cdx.remote: 0.065
+  esindex: 0.01
+  LoadShardBlock: 173.964 (3)
+  PetaboxLoader3.resolve: 162.742 (3)
+  PetaboxLoader3.datanode: 63.349 (4)
+  load_resource: 66.035
+*/
