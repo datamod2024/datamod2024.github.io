@@ -574,13 +574,13 @@
 									</div>
 
 									<div class="row" style="margin-top:2em; background-color:#FFEEFF">
-										<div class="col-sm-2">13:50 - 14:00<br><br><br>14:00 - 15:00</div>
+										<div class="col-sm-2">13:50 - 14:00</div>
 										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="font-weight: 800; margin-top:0.2em; color: white; background-color: #003844;">Opening</h5><hr>
+											<h5 style="font-weight: 800; margin-top:0.2em; color: white; background-color: #003844;">Opening</h5>
 											<p style="font-weight: 600; margin:1em 0 0 0">Invited Talk 1 - Alexandre  Madeira</p>
                                  <div class="affiliation"><a href="https://cidma.ua.pt"> CIDMA</a>,<a href="http://haslab.uminho.pt"> HASLab </a> - <a href="http://www2.inescporto.pt/"> INESC TEC </a><br><a href="https://www.ua.pt/dmat/#">Mathematics Department</a>, <a href="http://www.ua.pt">University of Aveiro</a></div>
                                  <div><h5><b>Title:</b> TBA</h5></div>
-                              </div>
+										</div>
 									</div>
 
 									<div class="row" style="margin-top: 2em; background-color:#EEEEFF">
@@ -627,23 +627,13 @@
 									</div>
 
 									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
-										<div class="col-sm-2">17:30 - 17:50</div>
+										<div class="col-sm-2">17:30 - 17:45</div>
 										<div class="col-sm-10" style="text-align: left;">
 											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
 											Juliana Bowles, Linda Brodo, Roberto Bruni, Moreno Falaschi, Roberta Gori and Paolo Milazzo</h5>
-                                 <h5>Analyzing Comorbidity Treatments with Reaction Systems<br><b>Presentation Report</b></h5>
+                                 <h5>Analyzing Comorbidity Treatments with Reaction Systems<br><b>Presentation Report (15 min)</b></h5>
 										</div>
 									</div>
-
-									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
-										<div class="col-sm-2">17:50 - 18:10</div>
-										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											Julius Figge and David Knuplesch</h5>
-                                 <h5>Applications of Formal Verification Techniques for Security in Automotive Diagnostics - a Literature-Survey<br><b>Presentation Report</b> - <a href="pdf/DataMod2024_figge.pdf">pdf</a></h5>
-										</div>
-									</div>
-
 <!--
 									<div class="row" style="margin-top: 2em;">
 										<div class="col-sm-2">16:00 - 17:00</div>
@@ -700,7 +690,7 @@
 									</div>
 
 									<div class="row" style="margin-top:2em; background-color:#FFEEFF">
-										<div class="col-sm-2"><br>11:00 - 12:00</div>
+										<div class="col-sm-2">11:00 - 12:00</div>
 										<div class="col-sm-10" style="text-align: left;">
 											<p style="font-weight: 600; margin:1em 0 0 0">Invited Talk 2 - Carlos M.  Fonseca</p>
 											<div class="affiliation"><a href="http://cisuc.uc.pt/">CISUC</a>, <a href="http://www.dei.uc.pt/">Department of Informatics Engineering</a><br><a href="http://www.uc.pt/">University of Coimbra</a></div>
@@ -708,12 +698,21 @@
 										</div>
 									</div>
 
-									<div class="row" style="margin-top:2em; background-color:#EEEEFF;">
-										<div class="col-sm-2">12:00 - 12:30</div>
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">12:00 - 12:15</div>
 										<div class="col-sm-10" style="text-align: left;">
 											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											Yameng Guo and Seppe Vanden Broucke</h5>
-                                 <h5>A Critique on Transductive Evaluation for GNN Node Classification</h5>
+											Alberto Arteta, Luisfer Mingo and Long Ma</h5>
+                                 <h5>Learning From Trend Analysis Errors with Artificial Neural Networks<br><b>Presentation Report (15 min)</b></h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">12:15 - 12:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Julius Figge and David Knuplesch</h5>
+                                 <h5>Applications of Formal Verification Techniques for Security in Automotive Diagnostics - a Literature-Survey<br><b>Presentation Report (15 min)</b></h5>
 										</div>
 									</div>
 
@@ -729,29 +728,10 @@
 										<div class="col-sm-2">14:00 - 15:00</div>
 										<div class="col-sm-10" style="text-align: left;">
 											<p style="font-weight: 600; margin:1em 0 0 0">Invited Talk CIFMA - TBA</p>
-                                 <p>Title: TBA</p>
+                                 <p>&nbsp;</p>
 										</div>
 									</div>
 
-									<div class="row" style="margin-top:2em; background-color:#EEDDFF">
-										<div class="col-sm-2">15:00 - 15:30</div>
-										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											CIFMA - Talk 1</h5>
-                                 <h5>TBA</b></h5>
-										</div>
-									</div>
-
-									<div class="row" style="margin-top:2em; background-color:#EEDDFF">
-										<div class="col-sm-2">15:30 - 16:00</div>
-										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											CIFMA - Talk 2</h5>
-                                 <h5>TBA</b></h5>
-										</div>
-									</div>
-
-<!--
 									<div class="row" style="margin-top:2em; background-color:#DDDDDD">
 										<div class="col-sm-2">15:00 - 15:10</div>
 										<div class="col-sm-10" style="text-align: left;">
@@ -759,7 +739,24 @@
 											Transfer to DataMod'24 room</h5>
 										</div>
 									</div>
--->
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">15:10 - 15:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Teresa Pereira, Raquel C. Conceição, Vitor Sencadas and Raquel Sebastião</h5>
+                                 <h5>Exploring the Trade-Offs in ECG Biometrics: Impact of Acquisition Time and Temporal Separation<br><b>Short Paper (20 min)</b></h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">15:30 - 16:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Yameng Guo and Seppe Vanden Broucke</h5>
+                                 <h5>A Critique on Transductive Evaluation for GNN Node Classification</h5>
+										</div>
+									</div>
 
 									<div class="row" style="margin-top: 2em; background-color:#FFEEEE">
 										<div class="col-sm-2">16:00 - 16:30</div>
@@ -769,28 +766,10 @@
 										</div>
 									</div>
 
-									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
-										<div class="col-sm-2">16:30 - 16:50</div>
-										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											Alberto Arteta, Luisfer Mingo and Long Ma</h5>
-                                 <h5>Learning From Trend Analysis Errors with Artificial Neural Networks<br><b>Presentation Report</b></h5>
-										</div>
-									</div>
-
-									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
-										<div class="col-sm-2">16:50 - 17:10</div>
-										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
-											Teresa Pereira, Raquel C. Conceição, Vitor Sencadas and Raquel Sebastião</h5>
-                                 <h5>Exploring the Trade-Offs in ECG Biometrics: Impact of Acquisition Time and Temporal Separation<br><b>Short Paper</b></h5>
-										</div>
-									</div>
-
 									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
-										<div class="col-sm-2">17:10 - 17:25</div>
+										<div class="col-sm-2">16:30 - 16:45</div>
 										<div class="col-sm-10" style="text-align: left;">
-											<h5 style="font-weight: 800;margin-top:0.2em; color: white; background-color: #003844;">DISCUSSION ABOUT DATAMOD NEXT EDITIONS</h5>
+											<h5 style="font-weight: 800;margin-top:0.2em; color: white; background-color: #003844;">DISCUSSION AND CLOSING</h5>
 										</div>
 									</div>
 					
