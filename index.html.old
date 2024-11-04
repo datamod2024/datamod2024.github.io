@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class=""><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<title>DataMod 2024</title>
+
+	
+	<!-- Library - Bootstrap v3.3.5 -->
+    <link rel="stylesheet" type="text/css" href="libraries/lib.css">
+    <link rel="stylesheet" type="text/css" href="libraries/Stroke-Gap-Icon/stroke-gap-icon.css">
+ 	<!-- Library - Font Awesome v4.7.0 -->
+    <link rel="stylesheet" href="libraries/font-awesome.min.css">
+
+	
+	<!-- Custom - Common CSS -->
+	<link rel="stylesheet" type="text/css" href="css/plugins.css">
+	<link rel="stylesheet" type="text/css" href="css/navigation-menu.css">
+	<link rel="stylesheet" type="text/css" href="libraries/lightslider-master/lightslider.css">
+	
+	<!-- Custom - Theme CSS -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/shortcode.css">
+	<!--[if lt IE 9]>		
+		<script src="js/html5/respond.min.js"></script>
+    <![endif]-->
+	
+</head>
+
+<body data-offset="200" data-spy="scroll" data-target=".ow-navigation">
+	<!-- Loader -->
+	<div id="site-loader" class="load-complete">
+		<div class="loader">
+			<div class="loader-inner ball-clip-rotate">
+				<div></div>
+			</div>
+		</div>
+	</div><!-- Loader /- -->
+	
+	<!-- Header -->
+	<header class="header-main container-fluid no-padding">
+		<!-- Top Header -->
+		<div class="top-header container-fluid no-padding">
+			<!-- Container -->
+			<div class="container">
+				<div class="row">
+					<!-- Social -->
+					<div class="col-md-4 col-sm-4 col-xs-6 social">
+						<ul>	
+							<li><a title="Twitter" href="https://twitter.com/Data2ModelsBack" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							<li><a title="Mail" href="mailto:datamod2024@easychair.org"><i class="fa fa-envelope"></i></a></li>
+
+						</ul>
+					</div>
+					<!-- Social /- -->
+					
+					<!-- Register TO BE UN COMMENTED WHEN REGISTRATION WILL BE OPEN-->   
+					<!--<div class="col-md-4 col-sm-4 col-xs-6 register">
+						<a href="#" title="Register">Register</a>
+					</div>-->
+					<!-- Register /- -->
+					
+					<!-- Logo Block -->
+					<div class="col-md-4 col-sm-4 col-xs-12 logo-block">
+						<a href="index.html" title="Logo">
+							<h3>DATAMOD 2024</h3>
+						</a>
+					</div>
+					<!-- Logo Block /- -->
+				</div>
+			</div><!-- Container /- -->
+		</div><!-- Top Header /- -->
+		
+		<!-- Menu Block -->
+		<div class="menu-block container-fluid no-padding">
+			<!-- Container -->
+			<div class="container">
+				<div class="col-md-12 col-md-offset-1 col-sm-14">
+					<!-- Navigation -->
+					<nav class="navbar ow-navigation">
+						<div class="navbar-header">
+							<button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="navbar-collapse collapse" id="navbar">
+							<ul class="nav navbar-nav menubar">
+								<li class="active"><a title="Home" href="index.html">Home</a></li>
+								<li><a title="About" href="#about">About</a></li>
+								<li><a title="Important Dates" href="#importantDates">Important Dates</a></li>
+								<li><a title="Submission" href="#submission">Submission</a></li>
+								<li><a title="Keynote" href="#keynote">Keynotes</a></li>
+								<li><a title="Program" href="#program">Program</a></li>
+								<li><a title="Organization" href="#organization">Organization</a></li>
+								<li><a title="Past Editions" href="#past-editions">Past editions</a></li>
+							</ul>
+						</div>
+					</nav><!-- Navigation /- -->
+				</div>
+			</div><!-- Container /- -->
+		</div><!-- Menu Block /- -->
+	</header><!-- Header /- -->	
+	
+
+	
+	<!-- TITLE Section -->
+	<div class="container-fluid no-padding howwecan-section" style="background-image: url(images/aveiro-back.png);background-size: cover;">
+		<div class="section-padding"></div>
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					
+				</div>
+				<div class="col-md-8 col-sm-6 col-xs-12 transp align-left">
+					<div class="howwecan-right">
+						<div class="section-header">
+							<p class="pre">12th International Symposium</h2>
+							<p class="title">DATAMOD 2024</h3>
+							<p class="subtitle">FROM DATA TO MODELS AND BACK</p>
+
+							 <p class="satellite">A satellite event of the </p>
+							<p class="satellite" style="margin-bottom: 3em;"><a href="https://sefm-conference.github.io/2024/" target="_blank">22nd International Conference of Software Engineering and Formal Methods - SEFM 2024</a></p>
+						    </p>	
+						</div>
+
+						<div class="section-subheader">
+							<div class="iconsInfo">
+								<i class="fa fa-calendar"></i>
+								<p class="infos">
+									<strong>DATE</strong>
+									<span>4-5 November</span>
+								</p>
+							</div>
+							<div class="iconsInfo">
+								<i class="fa fa-map-marker"></i>
+								<p class="infos">
+									<strong>LOCATION</strong>
+									<span>Aveiro, Portugal</span>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section-padding"></div>
+	</div><!-- TITLE Section /- -->
+	
+	<!-- About Section -->
+	<div id="about" class="container-fluid no-padding introduction-section">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center" style="padding: 3em;">
+				<h1 class="title">About DataMod</h1>
+				<p class="title-lead mt-20 text-left">
+					DataMod aims at bringing together practitioners and researchers from academia, industry and
+					research institutions interested in the combined application of computational modelling methods
+					with data-driven techniques from the areas of knowledge management, data mining and machine
+					learning. 
+             </p>
+             <p class="title-lead mt-20 text-left">
+               Modelling methodologies of interest include automata, agents, Petri nets, process
+					algebras and rewriting systems. Application domains include social systems, ecology, biology,
+					medicine, smart cities, governance, security, education, software engineering, and any other
+					field that deals with complex systems and large amounts of data.
+             </p>
+             <p class="title-lead mt-20 text-left">
+               Papers can present research
+					results in any of the themes of interest for the symposium as well as application experiences,
+					tools and promising preliminary ideas. Papers dealing with synergistic approaches that integrate
+					modelling and knowledge management/discovery or that exploit knowledge management/discovery to
+					develop/syntesise system models are especially welcome. </p>
+			</div>
+		</div>
+
+	<div class="container">
+		<div class="row" style="border-bottom: none;">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Topics of interest</h1>
+			</div>
+			<div class="col-md-6">
+				<div class="col-md-12">
+					<h3 class="sub-title-0  mb-20">
+					   <span class="topics">
+						  Modelling and analysis methodologies include
+					   </span>
+					</h3>
+				</div>
+				<div class="col-md-6">
+					<ul class="block-topic">
+						<li> Agent-based Methodologies</li>
+						<li> Automata-based Methodologies</li>
+						<li> Big Data Analytics</li>
+						<li> Cellular Automata</li>
+						<li> Classification</li>
+						<li> Clustering, Segmentation and Profiling</li>
+						<li> Conformance Analysis</li>
+						<li>Constraint Programming</li>
+						<li>Data Mining</li>
+						<li>Differential Equations</li>
+						<li>Game Theory</li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<ul class="block-topic">
+						<li>Machine Learning</li>
+						<li>Membrane Systems</li>
+						<li>Network Theory and Analysis</li>
+						<li> Ontologies</li>
+						<li>Optimisation Modelling</li>
+						<li>Petri Nets</li>
+						<li>Process Calculi</li>
+						<li>Process Mining</li>
+						<li> Rewriting Systems</li>
+						<li>Spatio-temporal Data Analysis/Mining</li>
+						<li>Statistical Model Checking</li>
+						<li>Text Mining</li>
+						<li>Topological Data Analysis</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="col-md-12">
+					<h3 class="sub-title-0  mb-20">
+						<span class="topics">Application domains include:</span>
+					</h3>
+				</div>
+				<div class="col-md-6">
+					<ul class="block-topic">
+						<li>Biology</li>
+						<li>Brain Data and Simulation</li>
+						<li>Business Process Management</li>
+						<li>Climate Change</li>
+						<li>Cybersecurity</li>
+						<li>Ecology</li>
+						<li>Education</li>
+						<li>Environmental Risk Assessment and Management</li>
+						<li>Enterprise Architectures</li>
+						<li>Epidemiology</li>
+						<li>Genetics and Genomics</li>
+						<li>Governance</li>
+						<li>HCI and Human Behaviour</li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<ul class="block-topic">
+						<li>Open Source Software Development and Communities</li>
+						<li>Pharmacology</li>
+						<li>Resilience Engineering</li>
+						<li>Safety and Security Risk Assessment</li>
+						<li>Social Good</li>
+						<li>Social Software Engineering</li>
+						<li>Social Systems</li>
+						<li>Sustainable Development</li>
+						<li>Threat modelling and analysis</li>
+						<li>Urban Ecology</li>
+						<li>Smart Cities and Smart Lands</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 mt-50">
+				<div class="col-md-12">
+					<h3 class="sub-title-0  mb-20">
+						<span class="topics">Synergistic approaches include:</span></h3>
+				</div>
+				<div class="col-md-6">
+					<ol class="block-topic">
+						<li>Use of modelling methods and notations in a knowledge management/discovery
+							context
+						</li>
+					</ol>
+				</div>
+				<div class="col-md-6">
+					<ol class="block-topic" start="2">
+						<li>Development and use of common modelling and knowledge management/discovery
+							frameworks to
+							explore and understand complex systems from the application domains of interest
+						</li>
+					</ol>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div><!-- About Section /- -->
+
+	<!-- Importand Dates Section -->
+	<div id="importantDates" class="container-fluid no-padding introduction-section">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Important Dates </h1>
+			</div>
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<i id="calendar" class="fa fa-calendar"></i>
+				<p id="date">4-5 November 2024</p>
+			</div>
+
+
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center" style="border-bottom: 0;">
+				<div class="text-center dates">
+					<h3 class=""><span class="gradient-text">RESEARCH PAPERS – SHORT AND FULL<p></p></span></h3>
+					<ul style="list-style: none; padding: 0;">
+						<li class="block-important-dates "><font color="#AABCC"><s>Abstract submission deadline (<b>optional</b>): 26<sup>th</sup> August</font></s></li>
+						<li class="block-important-dates">Paper submission deadline: <s><font color="#AABBCC">1<sup>st</sup> September</font></s>&nbsp;<font color="#EE11AA"><strong>15<sup>th</sup> September</strong> (hard deadline)</font></li>
+						<li class="block-important-dates ">Acceptance notification: <s><font color="#AABCC">30<sup>th</sup> September</font></s>&nbsp;<font color="#EE0000"><strong>7<sup>th</sup> October</strong></font></li>
+						<li class="block-important-dates ">Revised version: <strong>14<sup>th</sup> October</strong><br>
+                  <font size="-1">(note that you will have the opportunity to submit the camera-ready <br>paper for the LNCS Proceedings with discussions and remarks<br> <strong>after the symposium</strong>, ie, by the end of the year or early Jan/25)</font>
+                  </li>
+					</ul>
+				</div>
+				<div class="text-center dates">
+					<h3 class=""><span class="gradient-text">PRESENTATION REPORT<p></p></span></h3>
+					<ul style="list-style: none; padding: 0;">
+						<li class="block-important-dates ">Submission via email to:
+						  <a style="color: #AF1B71;" href="mailto:datamod2024@easychair.org">datamod2024@easychair.org</a></strong></li>
+						<li class="block-important-dates ">Presentation report deadline: <strong>14<sup>th</sup> October</strong></li>
+						<li class="block-important-dates ">Acceptance notification: <font color="#EE11AA"><strong>19<sup>th</sup> October</strong></font></li>
+						<!--<li class="block-important-dates ">Acceptance notification: <strong>TBA</strong></li>-->
+					</ul>
+				</div>
+
+			</div>
+
+			</div>
+            </div>
+		</div>
+    </div>	<!-- Importand Dates Section -->
+
+
+	<!-- Submission Section -->
+	<div id="submission" class="container-fluid no-padding introduction-section">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Paper Submission And Publication</h1>
+			</div>
+
+
+			<div class="row" style="border-bottom: 0;">
+                <div class="col-sm-8 col-sm-offset-2  " style="padding: 3em;">
+                    <div class="block-faq mb-50">
+						<h3 class="sub-title-0 mb-20">
+							<span class="topics">TYPES</span>
+						</h3>
+						<p>Papers can take one of the following three types: </p>
+                        <li>Regular (research, tool or position) paper, up to 16 pages (excluding references)</li>
+                        <li>Short (research, tool or position) paper, up to 8 pages (excluding references)</li>
+                        <li>Presentation report, up to 4 pages </li>
+                        <p class="mt-20">
+                            Presentation reports concern recent or ongoing work on relevant topics and ideas, for timely
+                            discussion and feedback at the workshop. There is no restriction as for previous/future
+                            publication of the contents of a presentation. Typically, a presentation is based on a paper
+                            which recently appeared (or which is going to appear) in the proceedings of another
+                            recognised conference, or which has not yet been submitted. Presentation reports will
+                            receive a lightweight review to establish their relevance for DataMod (see the Call for
+                            Presentation Reports).
+                        </p>
+                    </div>
+                    <div class="block-faq mb-50">
+                        <h3 class="sub-title-0 mb-20">
+							<span class="topics">SUBMISSION	</span>
+						</h3>
+						<p>All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere.</p>
+						<p>Authors are invited to submit their contributions (regular and short paper) via <a href="https://easychair.org/conferences/?conf=datamod2024" target="_blank">Easychair</a></p>
+
+                  <p>Authors are invited to submit their presentation report via e-mail at <a href="mailto:datamod2024@easychair.org">datamod2024@easychair.org</a></p>
+
+						<p class="mt-30">
+							Papers must be formatted according to the <a href="http://www.springer.com/lncs" class="but icon-doc" target="_blank">guidelines for Springer LNCS papers</a>, 
+							without modifications of margins and other space-saving measures. 
+							
+							Authors should therefore consult <a href="http://www.springer.com/comp/lncs/authors.html" class="but icon-doc" target="_blank"> Springer's authors' instructions</a> and use their  
+							proceedings templates, either for 
+							<a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" class="but icon-doc" target="_blank">LaTeX</a> 
+							or for <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" class="but icon-doc" target="_blank"> Word</a>, 
+							for the preparation of their papers. 
+
+							Springer’s proceedings LaTeX templates are also available in <a href="https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg" target="_blank"> Overleaf</a>.
+
+							Springer encourages authors to include their <a href="https://orcid.org/" class="but icon-doc" target="_blank">ORCIDs</a>     
+							in their papers.
+                        </p>
+
+                        <p class="mt-30">
+                            Each paper will be reviewed by three Program Committee members. Notification and reviews
+                            will be communicated via email through the Easychair platform.
+                        </p> 
+
+                    </div>
+                    <div class="block-faq mb-50">
+                        <h3 class="sub-title-0 mb-20">
+							<span class="topics">PUBLICATION	</span>
+						</h3>
+                        <p>Accepted papers will be included in the Symposium programme and will appear in the symposium
+                            pre-proceedings. Pre-proceedings will be available online before the Symposium. Condition
+                            for inclusion in the pre-proceedings is that at least one of the co-authors has registered
+                            for the Symposium.
+
+                            Revised versions of accepted papers will be published after the Symposium in a LNCS 
+                            volume published by Springer. 
+                            Condition for inclusion in the post-proceedings is that at least one of the co-authors has 
+                            presented the paper at the Symposium.
+                        </p>
+                    </div>
+
+					<!-- <div class="block-faq mb-50">
+                        <h3 class="sub-title-0 mb-20">
+							<span class="topics">POST-PROCEEDINGS	</span>
+						</h3>
+                        <p>The post proceedings of DataMod 2021 will be published with LNCS, Springer. 
+                            Please read the information below carefully and make sure you submit the following information to us by 21 April 2022.
+                        </p>
+						<p> Authors should consult <a href="ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf"
+							target="_blank">Springer’s authors’ guidelines </a>and use their 
+						proceedings templates, either for LaTeX  or for Word, for the preparation of their papers. 
+						Springer encourages authors to include their <a href="https://www.springer.com/gp/authors-editors/orcid?wt_mc=Other.Other.1.AUT642.ORCID+proceedings+pilot+2017&utm_medium=other&utm_source=other&utm_content=8232017&utm_campaign=1_barz01_orcid+proceedings+pilot+2017"
+						target="_blank">ORCIDs</a> in their papers. In addition, 
+						the corresponding author of each paper, acting on behalf of all of the authors of that paper, 
+						must complete and sign a <a href="pdf/Consent_to_Publish_DataMod2021.pdf"
+						target="_blank">Consent-to-Publish form</a>. 
+						The corresponding author signing the copyright form should match the corresponding 
+						author marked on the paper. Once the files have been sent to Springer, changes relating to 
+						the authorship of the papers cannot be made.
+						</p>
+						<p>
+                            If you are interested in Open Access or Open Choice, please refer to Springer's webpage 
+                            (https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings). 
+                            The address for the invoice and the CC-BY Consent-to-Publish form would need to be sent at the same 
+                            time as the files for the publication.
+                        </p>
+                        <p>Please prepare:
+                                <li>PDF for the camera ready version</li>
+                                <li>Sources (e.g., tex files including all figures and .bib if required OR word files)</li>
+                                <li>Copyright form (see attached - please print, sign and attach a scanned file)</li>
+                        </p>
+                        <p>Follow the following steps:
+                                <li>Please submit your PDF camera ready version to the Easychair conference submission 
+                                    (replacing the file that is already there) by 21 April 2022.</li>
+                                <li>Please send the PDF camera ready + SOURCES + Copyright form as a unique ZIP file 
+                                    (paperNo_firstname_lastname_DataMod2021.zip) to <a href="mailto:datamod2021@easychair.org">datamod2021@easychair.org</a> by 21 April 2022.</li>
+                                <li>If you want to opt for Open Access or Open Choice (as described above) please 
+                                    include the address for the invoice and the CC-BY Consent-to-Publish form.</li>
+                        </p>
+                    </div> -->
+
+					<div class="col-sm-8 col-sm-offset-2  text-center mt-50" style="margin-top: 6em;">
+                        <h3 class="sub-title-0">
+							<span class="topics">Didn't find what your are looking for ?</span>
+						</h3>
+                        <p> <a style="color: #AF1B71;" href="mailto:datamod2024@easychair.org">datamod2024@easychair.org</a>
+                        </p>
+                    </div> 
+				</div>
+	 		</div>
+		</div>
+	</div>	<!-- Submission Section -->
+
+            
+	<!-- KEYNOTE Section -->
+	<div id="keynote" class="container-fluid no-padding introduction-section">
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Keynote Speakers</h1>
+			</div>
+
+         <!-- first -->
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<div class="row" style="border-bottom: none; padding-bottom: 0;">
+					<div class="col-sm-2">
+						<img class="" src="images/am-photo.png">
+					</div>
+					<div class="col-sm-8" style="text-align: left;">
+						<h3 style="font-size: 150%;">
+							<span class="">Alexandre Madeira</span> 
+ 							<a href="https://sweet.ua.pt/madeira/" target="_blank"><i class="fa fa-globe mt-20" style="margin-left: 1em;"></i></a>
+ 						</h3>
+						    <p><a href="https://cidma.ua.pt"> CIDMA</a>, <a href="https://www.ua.pt/dmat/#">Mathematics Department </a> of <a href="http://www.ua.pt">University of Aveiro</a></p>
+						    <p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">BIO:</span> Alexandre Madeira is an Associate Professor in the Department of Mathematics at the University of Aveiro and a member of the Center for Research and Development in Mathematics & Applications. His key contributions lie in parametric methods for constructing specialized logics tailored to specific applications. His groundbreaking work began during his PhD in 2013, where he developed a method to generate logics to design reconfigurable systems. Since then, his research has expanded to the generation of various non-classical logics, focusing on the specification and verification of programs with non-standard behaviours, including those involving weighted and paraconsistent computations.</p>
+						
+					</div>
+				</div>
+				 <div class="row" style="text-align: left;">
+					<p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">TITLE:</span> A Logics-on-Demand Approach to Modelling with Uncertainty and Inconsistencies</p>
+					<p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">ABSTRACT:</span> In this talk, we present an overview of some developments in the parametric generation of logics, focusing on their application to modelling scenarios characterized by information that is often vague or inconsistent. We address this challenge by applying methods to construct (modal) "logics-on-demand," arguing that vague information should be handled using graded transition systems [1], while inconsistencies can be formalized using paraconsistent transition systems [2]. The introduction of formal logics tailored to specify and reason about these structures is achieved through systematic methods, where a key parameter is the choice of an appropriate truth space (technically, specific residuated lattices), selected in function of the problem to be approached.<br>
+               <p><font size="-1"><b>References</b><br>
+               <b>[1]</b> A. Madeira, R. Neves, M. A. Martins. <i>An exercise on the generation of many-valued dynamic logics</i>. J. Log. Algebraic Methods Program. 85(5): 1011-1037 (2016)<br>
+               <b>[2]</b> J.Cunha, A. Madeira, L. S. Barbosa. <i>Specification of paraconsistent transition systems, revisited</i>. Sci. Comput. Program. 240: 103196 (2025).</font></p>
+				</div> 
+			</div>
+
+         <!-- second -->
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<div class="row" style="border-bottom: none; padding-bottom: 0;">
+					<div class="col-sm-2">
+						<img class="" src="images/cmf-photo.png">
+					</div>
+					<div class="col-sm-8" style="text-align: left;">
+						<h3 style="font-size: 150%;">
+							<span class="">Carlos M. Fonseca</span> 
+ 							<a href="https://eden.dei.uc.pt/~cmfonsec" target="_blank"><i class="fa fa-globe mt-20" style="margin-left: 1em;"></i></a>
+ 						</h3>
+						    <p><a href="http://cisuc.uc.pt/">CISUC</a>, <a href="http://www.dei.uc.pt/">Department of Informatics Engineering</a><br><a href="http://www.uc.pt/">University of Coimbra</a></p>
+						    <p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">BIO:</span> Carlos M. Fonseca is an Associate Professor at the Department of Informatics Engineering of the University of Coimbra, Portugal, and a member of the Adaptive Computation group of CISUC, the Centre for Informatics and Systems of the University of Coimbra. He obtained his doctoral degree from the University of Sheffield, U.K., where he also conducted post-doctoral research. His main research interests are in multiobjective optimisation, evolutionary computation, experimental evaluation of optimisation algorithms, and practical applications of optimisation. He currently focuses mainly on preference articulation in multiobjective optimisation and the computational modelling of optimisation problems. He serves as Action Chair and Grant Holder Scientific Representative of COST Action ROAR-NET, a European research and innovation network aimed at making randomised optimisation algorithms widely competitive in practice by identifying and reducing obstacles to their adoption at the scientific, technical, economic, and human levels.</p>
+						
+					</div>
+				</div>
+				 <div class="row" style="text-align: left;">
+					<p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">TITLE:</span> Metaheuristics for Combinatorial Optimisation: Models or Algorithms?</p>
+					<p><span class="" style="font-size: 110%;padding-top: 2%;font-weight: 900;">ABSTRACT:</span> Evolutionary algorithms, ant colony optimisation, particle swarm optimisation, iterated local search, tabu search, and GRASP, among others, are examples of randomised optimisation algorithms that are often grouped together under the term metaheuristics and have shown success in solving many large combinatorial optimisation problems. Unfortunately, the flexibility with which they can be adapted to new problems has led to a situation where each such adaptation is presented as a new algorithm for a specific problem. An alternative view is that problem-specific features should be captured by, and encapsulated in, a model with which optimisation algorithms interact in a problem-independent way. This keynote presents ongoing work to make this vision a reality.</p>
+
+				</div> 
+			</div>
+
+
+		</div>
+
+
+		
+	</div><!-- KEYNOTE Section /- -->
+
+	
+	<!-- Schedule Section -->
+	<div id="program" class="container-fluid no-padding introduction-section">
+
+		<div class="row" style="border-bottom:none;">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title" style="margin-bottom: 0.5em;">Symposium Schedule</h1>
+				<p style="letter-spacing: 2px;color: #777;font-family: 'Josefin Sans', sans-serif;">- West European Time (WET) -</p>
+				<p style="letter-spacing: 2px;color: #777;font-family: 'Josefin Sans', sans-serif;">DataMod will take place in University of Aveiro</a>. <br> For further detail please visit the <a href="https://sefm-conference.github.io/2024/" target="_blank">SEFM webpage</a></p>
+			</div>
+		</div>
+
+
+		<div class="section-padding"></div>
+		<div class="container">
+			 <div class="schedule-block">
+				<div class="col-md-11">
+					<ul class="nav nav-tabs" role="tablist">
+						<li role="presentation" class="active">
+							<a href="#schedule_1" aria-controls="schedule_1" role="tab" data-toggle="tab">
+								<h3>Monday</h3>
+								<span>04-Nov-2024</span>
+							</a>
+						</li>
+						<li role="presentation">
+							<a href="#schedule_2" aria-controls="schedule_2" role="tab" data-toggle="tab">
+								<h3>Tuesday</h3>
+								<span>05-Nov-2024</span>
+							</a>
+						</li>
+
+					</ul>  
+					<div class="tab-content">
+						<!--MONDAY-->
+						<div role="tabpanel" class="tab-pane fade in active" id="schedule_1">
+							<div class="panel-group schedule-accordion" id="accordion" role="tablist" aria-multiselectable="true">
+								<div class="panel panel-default intro">
+									<div class="row" style="margin-top:0; background-color:#EEFFEE">
+										<div class="col-sm-2">12:30 - 13:45</div>
+										<div class="col-sm-10" style="text-align:left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											<span aria-hidden="true" class="fa fa-cutlery"></span> Lunch break</h5>
+											<h6 style="color: #89847f; font-weight: 400;"></h6>
+									    </div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#FFEEFF">
+										<div class="col-sm-2">13:50 - 14:00<br><br><br>14:00 - 15:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+                                 <p style="color:#FFFFFF;background-color:#EE3322;font-weight:800">Location: Room 11.2.21, Mathematics Department (building 11)</p>
+											<h5 style="font-weight: 800; margin-top:0.2em; color: white; background-color: #003844;">Opening</h5><hr>
+											<p style="font-weight: 600; margin:1em 0 0 0">Invited Talk 1 - Alexandre  Madeira</p>
+                                 <div class="affiliation"><a href="https://cidma.ua.pt"> CIDMA</a>,<a href="http://haslab.uminho.pt"><br><a href="https://www.ua.pt/dmat/#">Mathematics Department </a> of <a href="http://www.ua.pt">University of Aveiro</a></div>
+                                 <div><h5><b>Title:</b> A Logics-on-Demand Approach to Modelling with Uncertainty and Inconsistencies</h5></div>
+                              </div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF">
+										<div class="col-sm-2">15:00 - 15:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Ricardo Contreras, Filip Smola, Jiawei Zheng, Jane Hillston and Jacques Fleuriot</h5>
+                                 <h5>Verifying properties of Activities of Daily Living</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">15:30 - 16:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Roberto Metere, Kangfeng Ye, Yue Gu, Zhi Zhang, Dalal Alrajeh, Michele Sevegnani and Poonam Yadav</h5>
+                                 <h5>Towards Achieving Energy Efficiency and Service Availability in O-RAN via Formal Verification</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#FFEEEE">
+										<div class="col-sm-2">16:00 - 16:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<span aria-hidden="true" class="fa fa-coffee"></span> Coffee break
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">16:30 - 17:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Hana Tomášková, Andrea Zvackova, Patrik Urbanik and Dominik Palla</h5>
+                                 <h5>Risk Management and Process Optimization in Industry 4.0: Integrating Sensors with Critical Path and FMEA</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF">
+										<div class="col-sm-2">17:00 - 17:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Iuliana Malina Grigore, Sylvio Barbon Junior and Gabriel Marques Tavares</h5>
+                                 <h5>Beyond Flattening: Detecting Concurrency Anomalies Using K-NN Graph-based Modeling in Object-Centric Event Logs</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">17:30 - 17:50</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Alberto Arteta, Luisfer Mingo and Long Ma</h5>
+                                 <h5>Learning From Trend Analysis Errors with Artificial Neural Networks<br><b>Presentation Report</b></h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">17:50 - 18:10</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Julius Figge and David Knuplesch</h5>
+                                 <h5>Applications of Formal Verification Techniques for Security in Automotive Diagnostics - a Literature-Survey<br><b>Presentation Report</b> - <a href="pdf/DataMod2024_figge.pdf">pdf</a></h5>
+										</div>
+									</div>
+
+<!--
+									<div class="row" style="margin-top: 2em;">
+										<div class="col-sm-2">16:00 - 17:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="font-weight: 800;margin-top:0.2em; color: white; background-color: #003844;">SESSION 3: TBA</h5>
+											<h6 style="margin-top: 0.5em;color: #89847f; font-weight: 400;">SESSION CHAIR: TBA</h6>
+										</div>
+									</div>
+-->					
+
+								</div>
+							</div>
+						</div>
+
+
+						<!--TUESDAY-->
+						<div role="tabpanel" class="tab-pane fade in" id="schedule_2">
+							<div class="panel-group schedule-accordion" id="accordion" role="tablist" aria-multiselectable="true">
+								<div class="panel panel-default intro">
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">09:00 - 09:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+                                 <p style="color:#FFFFFF;background-color:#EE3322;font-weight:800">Location: Room 11.2.21, Mathematics Department (building 11)</p>
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Daniel Leto Neiva Costa, Elizabeth Fialho Wanner, Roberto Alamino and Thais Webber</h5>
+                                 <h5>Modelling COVID-19 with a SIR Variant using Real-World Data: a Case Study in Brazil</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">09:30 - 10:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Bruna Alves, Susana Brás and Raquel Sebastião</h5>
+                                 <h5>Explaining Pain: on the Impact of Physiological Signals in Pain Prediction</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">10:00 - 10:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Tran Huong Giang Pham and Paolo Milazzo</h5>
+                                 <h5>Gene Importance Assessment based on Shapley Values for Boolean Networks: Validation and Scalability Analysis</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#FFEEEE">
+										<div class="col-sm-2">10:30 - 11:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											<span aria-hidden="true" class="fa fa-coffee"></span> Coffee break</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#FFEEFF">
+										<div class="col-sm-2"><br>11:00 - 12:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<p style="font-weight: 600; margin:1em 0 0 0">Invited Talk 2 - Carlos M.  Fonseca</p>
+											<div class="affiliation"><a href="http://cisuc.uc.pt/">CISUC</a>, <a href="http://www.dei.uc.pt/">Department of Informatics Engineering</a><br><a href="http://www.uc.pt/">University of Coimbra</a></div>
+                                 <div><h5><b>Title:</b> Metaheuristics for Combinatorial Optimisation: Models or Algorithms?</h5></div>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">12:00 - 12:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Yameng Guo and Seppe Vanden Broucke</h5>
+                                 <h5>A Critique on Transductive Evaluation for GNN Node Classification</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEFFEE">
+										<div class="col-sm-2">12:30 - 14:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											<span aria-hidden="true" class="fa fa-cutlery"></span> Lunch break</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#FFEEFF">
+										<div class="col-sm-2">14:00 - 15:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+                                 <p style="color:#FFFFFF;background-color:#EE3322;font-weight:800">Location: Auditório José Graça, 22.3.1, Mechanics Department (building 22)</p>
+											<p style="font-weight: 600; margin:1em 0 0 0;color: #A01844;">Invited Talk <a href="https://cifma.github.io/" target="_blank"><font color="#A01844">CIFMA</font></a> - <a href="https://www.inesctec.pt/en/people/joao-gama" target="_blank">João Gama</p>
+                                 <div><h5><b>Title:</b> A New Spring for Artificial Intelligence</h5></div>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEDDFF">
+										<div class="col-sm-2">15:00 - 15:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #A01844;">
+											<a href="https://cifma.github.io/" target="_blank"><font color="#A01844">CIFMA</font></a></h5>
+                                 <h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+                                 Pedro Quaresma and Pierluigi Graziani</h5>
+                                 <h5>A Readability Criterion for Humans and Machines</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEDDFF">
+										<div class="col-sm-2">15:30 - 16:00</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #A01844;">
+											<a href="https://cifma.github.io/" target="_blank"><font color="#A01844">CIFMA</font></a></h5>
+                                 <h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+                                 Antonio Cerone and Olzhas Zhangeldinov</h5>
+                                 <h5>Cognitive Aspects in the Formal Modelling of Multi-party Human-computer Interaction</h5>
+										</div>
+									</div>
+
+<!--
+									<div class="row" style="margin-top:2em; background-color:#DDDDDD">
+										<div class="col-sm-2">15:00 - 15:10</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Transfer to DataMod'24 room</h5>
+										</div>
+									</div>
+-->
+
+									<div class="row" style="margin-top: 2em; background-color:#FFEEEE">
+										<div class="col-sm-2">16:00 - 16:30</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											<span aria-hidden="true" class="fa fa-coffee"></span> Coffee break</h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">16:30 - 16:50</div>
+										<div class="col-sm-10" style="text-align: left;">
+                                <p style="color:#FFFFFF;background-color:#EE3322;font-weight:800">Location: Room 11.2.21, Mathematics Department (building 11)</p>
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Juliana Bowles, Linda Brodo, Roberto Bruni, Moreno Falaschi, Roberta Gori and Paolo Milazzo</h5>
+                                 <h5>Analyzing Comorbidity Treatments with Reaction Systems<br><b>Presentation Report</b></h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top:2em; background-color:#EEEEFF">
+										<div class="col-sm-2">16:50 - 17:10</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="margin-top:0.2em;font-weight: 800;color: #003844;">
+											Teresa Pereira, Raquel C. Conceição, Vitor Sencadas and Raquel Sebastião</h5>
+                                 <h5>Exploring the Trade-Offs in ECG Biometrics: Impact of Acquisition Time and Temporal Separation<br><b>Short Paper</b></h5>
+										</div>
+									</div>
+
+									<div class="row" style="margin-top: 2em; background-color:#EEEEFF;">
+										<div class="col-sm-2">17:10 - 17:25</div>
+										<div class="col-sm-10" style="text-align: left;">
+											<h5 style="font-weight: 800;margin-top:0.2em; color: white; background-color: #003844;">DISCUSSION ABOUT DATAMOD NEXT EDITIONS</h5>
+										</div>
+									</div>
+					
+
+								</div>
+							</div>
+						</div>
+					</div>
+						
+
+				</div>
+			</div>
+		</div> 
+		
+		<div class="section-padding"></div>
+	
+	</div>
+
+	<div id="organization" class="container-fluid no-padding introduction-section">
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Organization</h1>
+			</div>
+
+			<div class="row brd-bottom pb-50">
+				<div class="col-md-4 col-md-offset-2" style="padding: 3em;">
+					<div><h3 class="sub-title-0  mt-20 mb-20">
+					   <span class="topics">
+						  PROGRAM CO-CHAIRS
+					   </span>
+					</h3>
+						<ul>
+							<li>Ricardo M. Czekster, Aston University, United Kingdom</li>
+							<li>Paolo Milazzo, University of Pisa, Italy</li>
+						</ul>
+					</div>
+
+					<!--<div><h3 class="sub-title-0  mt-20 mb-20">
+						   <span class="topics">
+							  ORGANIZING COMMITEE
+						   </span>
+					</h3>
+						<ul>
+							<li>&nbsp;</li>
+						</ul>
+					</div>-->
+
+					<div><h3 class="sub-title-0  mt-20 mb-20">
+						   <span class="topics">
+							  STEERING COMMITEE
+						   </span>
+					</h3>
+						<ul>
+							<li>Oana Andrei, University of Glasgow, UK</li>
+							<li>Antonio Cerone, Nazarbayev University, Kazakhstan</li>
+							<li>Riccardo Guidotti, University of Pisa, Italy</li>
+							<li>Marijn Janssen, Delft University of Technology, the Netherlands</li>
+							<li>Stan Matwin, University of Ottawa, Canada</li>
+							<li>Paolo Milazzo, University of Pisa, Italy</li>
+							<li>Anna Monreale, University of Pisa, Italy</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4" style="padding: 3em;">
+					<div><h3 class="sub-title-0  mt-20 mb-20">
+						   <span class="topics">
+							  PROGRAM COMMITEE
+						   </span>
+					</h3>
+						
+						<ul>
+							<li>Oana Andrei, University of Glasgow</li>
+							<li>Luca Arnaboldi, University of Birmingham</li>
+							<li>Juliana Bowles, University of St Andrews</li>
+							<li>Giovanna Broccia, ISTI-CNR, FMT Lab</li>
+							<li>Antonio Cerone, Nazarbayev University</li>
+							<li>Ricardo M. Czekster, Aston University</li>
+							<li>Flavio Ferrarotti, Software Competence Centre Hagenberg</li>
+							<li>Riccardo Guidotti, University of Pisa</li>
+							<li>Alexander Kocian, University of Pisa</li>
+							<li>Livia Lestingi, Politecnico di Milano</li>
+							<li>José Manuel	Ferreira Machado, University of Minho</li>
+							<li>Roberto Metere, University of York</li>
+							<li>Paolo Milazzo, Dipartimento di Informatica - Università di Pisa</li>
+							<li>Anna Monreale, Computer Science Dep., University of Pisa</li>
+							<li>Sotiris Moschoyiannis, University of Surrey</li>
+							<li>Mirco Nanni, KDD-Lab ISTI-CNR Pisa</li>
+							<li>Lucia Nasti, Gran Sasso Science Institute</li>
+							<li>Michela Quadrini, Università di Camerino</li>
+							<li>Gwen Salaün, Université Grenoble Alpes</li>
+							<li>Simone Tini, University of Insubria</li>
+							<li>Thais Webber, Aston University</li>
+							<li>Paolo Zuliani, Università di Roma "La Sapienza"</li>
+						</ul>
+						
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+	
+	<!-- past-editions Section -->
+	<div id="past-editions" class="container-fluid no-padding past-editions-section">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">
+				<h1 class="title">Past Editions</h1>
+				<i id="book" class="fa fa-fast-backward fa-3x" style="font-size:48px;color:#7B0323"></i>
+			</div>
+         
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-center">&nbsp;
+			</div>
+
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-left">
+				<p id="text">DataMod is running since 2012. It was called Modelling and Knowledge Management for
+Sustainable Development (MoKMaSD) from 2012 to 2015, then it was renamed DataMod ever since.</p>
+			</div>
+
+			<div class="col-sm-8 col-sm-offset-2 mb-100 text-left">
+
+         <ul>
+          <li>As <b>MoKMaSD: Modelling and Knowledge Management applications for
+Sustainable Development</b>:</li>
+          <ul>
+           <li><a href="past-editions/MoKMaSD-2012/MoKMaSD Website.htm">1<sup>st</sup> MoKMaSD'2012</a>: Thessaloniki/Greece</li>
+           <li><a href="past-editions/MoKMaSD-2013/MoKMaSD 2013.htm">2<sup>nd</sup> MoKMaSD'2013</a>: Madrid/Spain</li>
+           <li><a href="past-editions/MoKMaSD-2014/MoKMASD 2014.htm">3<sup>rd</sup> MoKMaSD'2014</a>: Grenoble/France</li>
+           <li><a href="past-editions/MoKMaSD-2015/MoKMASD 2015.htm">4<sup>th</sup> MoKMaSD'2015</a>: York/UK</li>
+          </ul>
+          <li>As <b>DataMod: From Data to Models and Back</b>:</li>
+          <ul>
+           <li><a href="past-editions/Datamod-2016/DataMod 2016 – From Data to Models and Back (DataMod).htm">5<sup>th</sup> DataMod'2016</a>: Viena/Austria</li>
+           <li><a href="past-editions/Datamod-2017/DataMod 2017 – From Data to Models and Back (DataMod).htm">6<sup>th</sup> DataMod'2017</a>: Trento/Italy</li>
+           <li><a href="past-editions/Datamod-2018/DataMod 2018 – From Data to Models and Back (DataMod).htm">7<sup>th</sup> DataMod'2018</a>: Toulouse/France</li>
+           <li><a href="past-editions/Datamod-2019/DataMod 2019 – From Data to Models and Back (DataMod).htm">8<sup>th</sup> DataMod'2019</a>: Porto/Portugal</li>
+           <li><a href="past-editions/Datamod-2020/DataMod 2020.htm">9<sup>th</sup> DataMod'2020</a>: on-line</li>
+           <li><a href="past-editions/Datamod-2021/DataMod 2021.htm">10<sup>th</sup> DataMod'2021</a>: on-line</li>
+           <li><a href="past-editions/Datamod-2023/DataMod 2023.htm">11<sup>th</sup> DataMod'2023</a>: Eindhoven/The Netherlands</li>
+           <li><div class="iconsInfo">
+                 <i class="fa fa-arrow-right" style="font-size:20px;color:#7B0323"></i>
+                 <a href="index.html">12<sup>th</sup> DataMod'2024</a>: Aveiro/Portugal</li>
+                </div>
+          </ul>
+         </ul>
+
+			</div>
+
+         <div class="wrap">
+         </div>
+
+		</div>
+    </div>	<!-- Past Editions Section -->
+
+	
+
+	
+	<!-- Footer Main -->
+	<footer class="footer-main container-fluid" style="padding: 0;">
+		<!-- Container -->
+
+		
+		<!-- Container -->
+		<div class="container">
+			<div class="footer-menu">
+				<!-- Copyrights -->
+				<div class="copyrights ow-pull-left">
+					<p>&copy; 2024 Website by DataMod</p>
+				</div><!-- Copyrights /- -->
+				<!-- Navigation -->
+				<nav class="navbar ow-navigation ow-pull-right">
+					<div class="navbar-header">
+						<button aria-controls="navbar" aria-expanded="false" data-target="#navbar2" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+					<div class="navbar-collapse collapse" id="navbar2">
+						<ul class="nav navbar-nav">
+							<li><a title="Home" href="#">Home</a></li>
+							<li><a title="About" href="#about">About</a></li>
+							<li><a title="Important Dates" href="#importantDates">Important Dates</a></li>
+							<li><a title="Submissions" href="#submission">Submissions</a></li>
+							<li><a title="Keynotes" href="#keynote">Keynotes</a></li>
+							<li><a title="Program" href="#program">Program</a></li>
+							<li><a title="Organization" href="#organization">Organization</a></li>
+                     <li><a title="Past Editions" href="#past-editions">Past editions</a></li>
+						</ul>
+					</div>
+				</nav><!-- Navigation /- -->
+			</div><!-- Footer Menu /- -->
+		</div><!-- Container /- -->
+	</footer><!-- Footer Main /- -->
+	
+	<!-- JQuery v1.11.3 -->
+	<script src="js/jquery.min.js"></script>
+	
+	<!-- Library - Js -->
+	<script src="libraries/lib.js"></script><!-- Bootstrap JS File v3.3.5 -->
+	<script src="libraries/jquery.countdown.min.js"></script>
+	
+	<script src="libraries/lightslider-master/lightslider.js"></script>
+	<!-- Library - Google Map API -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCn3Z6i1AYolP3Y2SGis5qhbhRwmxxo1wU"></script>
+	<script src="js/functions.js"></script>
+</body>
+</html>
